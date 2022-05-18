@@ -1,3 +1,10 @@
 body {
-    background-color: indianred;
+    background-color: antiquewhite;
+}
+
+
+h1 {
+    color: cornflowerblue;
+    font-size: 75px;
+    font-family: "Arial Narrow";
 }
